@@ -1,5 +1,6 @@
 /**
  *
+ *
  * No me ha tiempo a llegar a mi casa con esto full adaptado. Pero funciona y sé cómo cambiarlo.
  *
 * Solicita un número entero en un rango.
